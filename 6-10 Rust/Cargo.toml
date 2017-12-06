@@ -1,0 +1,6 @@
+[package]
+name = "aoc_rust"
+version = "0.1.0"
+authors = ["Boxfort <40208539@live.napier.ac.uk>"]
+
+[dependencies]
